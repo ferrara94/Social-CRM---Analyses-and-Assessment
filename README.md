@@ -11,6 +11,8 @@ Analyses and Assessment of Social CRM in italian language.
 - [ ] Reference to well-known CRM like SalesForce and HubSpot
 - [ ] Integration with different architectures like Event Based or Microservices. 
 
+---
 
+#### > Example Shown
 
 
