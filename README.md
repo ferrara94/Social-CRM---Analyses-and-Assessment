@@ -15,4 +15,5 @@ Analyses and Assessment of Social CRM in italian language.
 
 #### > Example Shown
 
+![image](https://user-images.githubusercontent.com/45211249/120891697-2a80f880-c60a-11eb-8ba5-31b1028e0f9e.png)
 
